@@ -14,7 +14,7 @@ This project demonstrates a fully functional rollup deployment integrated with E
 * ⚡ Integrated with Espresso confirmations for enhanced security and speed
 * 🔄 Seamless compatibility with Arbitrum Sepolia
 * 🔒 TEE-backed batch poster for improved trust assumptions
-* ⏱️ Faster confirmations than traditional Ethereum finality (12-15 minutes)
+* ⏱️ Faster confirmations than traditional Ethereum finality
 
 ## Deployment Information
 
